@@ -1,6 +1,12 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=2000&color=72F7B7&width=435&lines=Hey%2C++I'm+Victor+Hoang)](https://git.io/typing-svg)
 
 
+A little about me :innocent: : 
+- I am full stack software engineer 😎
+- I’m currently learning Python 🌱 
+- I created three projects you can view below :arrow_down:
+- You can find me cooking, snowboarding, playing volleyball or watching anime in my free time 🥰
+- Email: vikterhoang@gmail.com 📫 
 
 
 Technologies Used:
@@ -24,11 +30,9 @@ Technologies Used:
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Email: vikterhoang@gmail.com
 -->
